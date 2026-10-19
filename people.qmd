@@ -55,6 +55,9 @@ format:
     link-external-newwindow: true
 ---
 
+# Lab Director
+
+Dr. T.J. Sullivan (he/him) is a licensed clinical psychologist and an Assistant Professor in the Mental Health Counseling Program, housed within the Department of Psychology at The City College of New York, where he directs the Adversity and Diversity in Personalized Treatment (ADAPT) Lab. His research broadly spans stress and relationship science to inform personalized therapy and principled clinical decision-making. Dr. Sullivan studies how stress impacts people differently based on the unique ways that social contexts shape stress exposures and reactions, particularly among the LGBTQ+ community. Specifically, he focuses on how interpersonal support and coping processes may protect people's mental health and social functioning in the face of stress, as well as how different stressor characteristics such as chronic targeted rejection may increase risk for negative psychological and social outcomes. Dr. Sullivan completed his B.A. in Psychology and French and Francophone Studies (Minor in Dance) at Penn State University, his Ph.D. in Clinical Psychology at Stony Brook University, his clinical residency at VA Puget Sound Healthcare System Seattle Division, and a postdoctoral clinical research fellowship in LGBTQ+ mental health at Yale School of Public Health.
 
 ## Team
 

@@ -14,6 +14,8 @@ website:
     background: "#9595D2"
     foreground: "#545859"
     right:
+      - href: index.qmd
+        text: Home
       - href: people.qmd
         text: People
       - href: research.qmd
@@ -44,8 +46,8 @@ website:
   #   tracking-id: ""  # Please delete or replace with your own tracking ID
   #   anonymize-ip: true 
   open-graph: true 
-  twitter-card: true 
-    card-style: summary      
+#  twitter-card: 
+#    card-style: summary      
   repo-url: https://github.com/tj-sullivan/adaptlab
   search:
     location: navbar
@@ -53,7 +55,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
     footnotes-hover: true

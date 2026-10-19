@@ -1,0 +1,41 @@
+---
+description: "RESEARCH PAGE"
+pagetitle: "Research"
+toc: false
+---
+
+# Overview
+
+Topics studied in the ADAPT Lab at CCNY span basic stress and relationship science to psychotherapy research. Click here to skip down to current studies in the lab.
+
+The following core questions guide our work:
+
+## 1. How can we precisely capture stress processes? 
+
+Because conclusions drawn from stress research are only as valid as the measures used, a core component of the research conducted in the ADAPT Lab optimizes ways to assess stress processes. We focus on: (a) how to best measure stress constructs psychometrically, and (b) methodological approaches to increase ecological validity in studying stress processes.
+
+Prior work in this area includes:
+-MI
+-dating stress
+-behav observation
+
+## 2. How do stress processes impact relationships and mental health? 
+Especially intense (e.g., trauma) and notably chronic (e.g., stigma due to marginalized identities) forms of stress often, but not always, hurt people's mental health and social relationships. However, the complex processes by which stress does and does not harm people remain elusive, so we focus on understanding pathways in and out of this risk. Specifically, we examine (a) how interpersonal support and coping processes may weaken the harms of stress (e.g., bring partners closer together), and
+(b) how characteristics of specific stressors may strengthen such harms (e.g., drive partners apart).
+
+Prior work in this area includes:
+-multimethod
+-diss & ipv
+-honors thesis
+
+## 3. How can we apply insights from stress and relationship science to clinical care? 
+Our lab focuses on how we can align innovations in stress and relationship science to encourage principled decision-making and case formulation in therapy, as well as how we can better understand how therapy works.
+
+Prior work in this area includes:
+-ladi
+-qual
+-tx relationship
+
+# Current Studies
+
+Stay tuned!

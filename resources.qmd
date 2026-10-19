@@ -1,0 +1,7 @@
+---
+description: "RESOURCES PAGE"
+pagetitle: "RESOURCES"
+toc: false
+---
+
+Hi this is a test of the resources page. 
