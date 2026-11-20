@@ -1,15 +1,29 @@
 ---
-title: "ADAPT Lab at CCNY"
 description-meta: "ADAPT Lab at The City College of New York"
 #image: "files/images/placeholder4.JPG"
 page-navigation: false
 toc: false
 #sidebar: false
 page-layout: full
+# format: 
+#   html:
+#     include-in-header:
+#       - text: |
+#           <style>
+#           #quarto-document-content {
+#             text-align: center;
+#           }
+#           </style>
 ---
 
-Stress can profoundly affect our lives, yet people do not experience stress equally. The Adversity and Diversity in Advancing Personalized Treatment (ADAPT) Lab at The City College of New York focuses on how and why stress impacts people differently so we can use this knowledge to make therapy better. We study how exposure to stress and people's reactions to it shape their interpersonal relationships and mental health--particularly among people who experience especially intense (i.e., trauma) or notably chronic types of stress (e.g., LGBTQ+ stigma).
+::: {.text-center}
+
+![](\files\images\harris_hall.jpg){width=50%}
+
+:::
+
+Stress can profoundly affect our lives, yet people do not experience stress equally. <strong>**The Adversity and Diversity in Advancing Personalized Treatment (ADAPT) Lab** at The City College of New York</strong> focuses on how and why stress impacts people differently so we can use this knowledge to make therapy better. We study how exposure to stress and people's reactions to it shape their interpersonal relationships and mental health---particularly among people who experience especially intense (i.e., trauma) or notably chronic types of stress (e.g., LGBTQ+ stigma).
 
 Directed by Dr. T.J. Sullivan, the ADAPT Lab at CCNY explores these topics because people place tremendous trust in their therapists to understand who they are, where they come from, and the nuances of what they're struggling with right now. To provide effective treatment tailored to each person, therapists need to know how to best address the complex ways that early and ongoing stress influences people's lives in subtle and not-so-subtle ways. We help advance this knowledge through basic and applied research.
 
-**<strong><em>Please note: This website is an active work in progress.</strong></em>**
+<strong><em>Please note: This website is an active work in progress.</strong></em>
